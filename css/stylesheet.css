@@ -72,10 +72,12 @@ nav .logo a:hover {
 }
 
 nav .checkbox {
+ 
   display: none;
 }
 
 nav input {
+  
   display: none;
 }
 nav .checkbox i {
@@ -85,6 +87,7 @@ nav .checkbox i {
 }
 
 ul {
+  
   display: flex;
   align-items: center;
   gap: 1rem;
@@ -614,6 +617,19 @@ ul li a:hover {
 
  
 
+}
+.back_top
+{
+  width: 100%;
+  background-color: var(--background);
+  text-align: center;
+  
+  margin-bottom: 5px;
+}
+.back_top a
+{
+  color: var(--text-dark);
+  font-size: 1.5rem;
 }
 
 
