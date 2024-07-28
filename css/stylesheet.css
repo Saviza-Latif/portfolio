@@ -575,9 +575,16 @@ ul li a:hover {
   border: 2px inset var(--text-light) ;
   
 }
+.links_icon
+{
+  width: 100%;
+ letter-spacing: 10px;
+  text-align: center;
+  
+}
 .links a{
   color: var(--text-dark);
-  margin-left: 30%;
+  
   font-size:2rem;
   
  
